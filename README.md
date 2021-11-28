@@ -6,4 +6,4 @@ Equipe: JEISON DE OLIVEIRA AZEVEDO, LUCAS VINÍCIUS OLIVEIRA SOUZA, ÍTALO GUILH
   O sistema proposto visa realizar as operações de um caixa automático, permitindo que clientes realizem saques, depósitos e verifiquem seus saldos. Além disso, um módulo gerência permitindo cadastrar, alterar e excluir novos clientes. Cada conta é associada a um cliente do banco, que possui informações como nome, RG, CPF, etc. As informações adicionais sobre as contas e seus clientes estão armazenadas em um Cadastro de Contas do Banco que interage com o Sistema de Caixa Automático. 
   Esse projeto tem como finalidade fornecer a todos os usuários que possuam credenciais válidas ações básicas de um sistema de caixa bancário eletrônico facilitando o manuseio do caixa e tendo uma alta garantia em relação a segurança dos dados informados pelo cliente de determinada empresa.
 
-Link da pasta dos requisitos: https://github.com/italoguilherme/Caixaeletronico-bancodedados-/blob/e79aac31f717e71ce569c0930daac1060e103519/doc/REQUISITOS.md
+Link da pasta dos requisitos: https://github.com/italoguilherme/Caixaeletronico-bancodedados-/blob/26303fc4f43d2654b8f8a79233f0b094ce3260c8/doc/REQUISITOS.md

@@ -13,3 +13,6 @@ Requisitos do Sistema de Caixa Eletrônico:
 12- O sistema de Caixa deve interagir com o Banco;
 13- O cliente deve estar associado ao banco;
 14- O cliente pode visualizar o extrato;
+15- As transferências devem ter um código, valor e uma conta de destino;
+16- O depósito e o saque devem ter código e valor;
+17- O extrato deve ter código, valor e período.
